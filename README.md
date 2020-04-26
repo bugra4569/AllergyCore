@@ -6,5 +6,6 @@
 * Code first yaklaşımı kullanıldı.
 * IOC, Autofac kullanıldı.
 * Validation, FluentValidation kullanıldı.
+* Katalog için Swagger Kullanıldı.
 
 
