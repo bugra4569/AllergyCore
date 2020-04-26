@@ -2,7 +2,9 @@
 .Net Core 3.1 Web Api ve katmanlı mimari ile Alerji Projesinin Back-End uygulaması
 
 * Veritabanı olarak MSSQL kullanıldı. 
-* IOC Autofac Kullanıldı.
-* Validation için FluentValidation kullanıldı.
+* ORM araçlarından EntityFramework Core 3.1 kullanıldı.
+* Code first yaklaşımı kullanıldı.
+* IOC, Autofac kullanıldı.
+* Validation, FluentValidation kullanıldı.
 
 
