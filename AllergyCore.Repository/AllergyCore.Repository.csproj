@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AllergyCore.Core\AllergyCore.Core.csproj" />
+    <ProjectReference Include="..\AllergyCore.Entity\AllergyCore.Entity.csproj" />
+  </ItemGroup>
+
+</Project>
